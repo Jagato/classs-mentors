@@ -26,7 +26,6 @@ The following **required** functionality is completed:
 
 - [x] User can log in & register an account.
 - [x] User can create a profile containing classes taken, bio, classification, etc.
-- [x] User can view posted threads
 - [] Users can direct message other students and mentors
 - [] Users can post on a discussion board about a class
 
