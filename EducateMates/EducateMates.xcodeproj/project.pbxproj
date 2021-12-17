@@ -22,6 +22,7 @@
 		EE453CB1274D87A900126D19 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE453CB0274D87A900126D19 /* FeedViewController.swift */; };
 		EE453CB3274D87BB00126D19 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE453CB2274D87BB00126D19 /* RegisterViewController.swift */; };
 		EE453CB5274D883B00126D19 /* InitialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE453CB4274D883B00126D19 /* InitialViewController.swift */; };
+		EE8AB9D9276CF70F005022BF /* ThreadTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE8AB9D8276CF70F005022BF /* ThreadTableViewCell.swift */; };
 		EEBF774F276CECB5003867D7 /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEBF774E276CECB5003867D7 /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -68,6 +69,7 @@
 		EE453CB0274D87A900126D19 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		EE453CB2274D87BB00126D19 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
 		EE453CB4274D883B00126D19 /* InitialViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitialViewController.swift; sourceTree = "<group>"; };
+		EE8AB9D8276CF70F005022BF /* ThreadTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadTableViewCell.swift; sourceTree = "<group>"; };
 		EEBF774E276CECB5003867D7 /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -158,6 +160,7 @@
 				EE453CB2274D87BB00126D19 /* RegisterViewController.swift */,
 				EE453CB4274D883B00126D19 /* InitialViewController.swift */,
 				EEBF774E276CECB5003867D7 /* CreationViewController.swift */,
+				EE8AB9D8276CF70F005022BF /* ThreadTableViewCell.swift */,
 			);
 			path = EducateMates;
 			sourceTree = "<group>";
@@ -425,6 +428,7 @@
 				EE453CB1274D87A900126D19 /* FeedViewController.swift in Sources */,
 				EE453C81274D83BE00126D19 /* SceneDelegate.swift in Sources */,
 				EEBF774F276CECB5003867D7 /* CreationViewController.swift in Sources */,
+				EE8AB9D9276CF70F005022BF /* ThreadTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
