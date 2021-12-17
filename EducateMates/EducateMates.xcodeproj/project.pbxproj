@@ -24,6 +24,8 @@
 		EE453CB5274D883B00126D19 /* InitialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE453CB4274D883B00126D19 /* InitialViewController.swift */; };
 		EE8AB9D9276CF70F005022BF /* ThreadTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE8AB9D8276CF70F005022BF /* ThreadTableViewCell.swift */; };
 		EE8AB9DB276D03D3005022BF /* ThreadDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE8AB9DA276D03D3005022BF /* ThreadDetailsViewController.swift */; };
+		EE8AB9DD276D21B4005022BF /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE8AB9DC276D21B4005022BF /* ProfileViewController.swift */; };
+		EE8AB9DF276D2320005022BF /* ThreadProfileTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE8AB9DE276D2320005022BF /* ThreadProfileTableViewCell.swift */; };
 		EEBF774F276CECB5003867D7 /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEBF774E276CECB5003867D7 /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -72,6 +74,8 @@
 		EE453CB4274D883B00126D19 /* InitialViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitialViewController.swift; sourceTree = "<group>"; };
 		EE8AB9D8276CF70F005022BF /* ThreadTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadTableViewCell.swift; sourceTree = "<group>"; };
 		EE8AB9DA276D03D3005022BF /* ThreadDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadDetailsViewController.swift; sourceTree = "<group>"; };
+		EE8AB9DC276D21B4005022BF /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		EE8AB9DE276D2320005022BF /* ThreadProfileTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadProfileTableViewCell.swift; sourceTree = "<group>"; };
 		EEBF774E276CECB5003867D7 /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -164,6 +168,8 @@
 				EEBF774E276CECB5003867D7 /* CreationViewController.swift */,
 				EE8AB9D8276CF70F005022BF /* ThreadTableViewCell.swift */,
 				EE8AB9DA276D03D3005022BF /* ThreadDetailsViewController.swift */,
+				EE8AB9DC276D21B4005022BF /* ProfileViewController.swift */,
+				EE8AB9DE276D2320005022BF /* ThreadProfileTableViewCell.swift */,
 			);
 			path = EducateMates;
 			sourceTree = "<group>";
@@ -424,8 +430,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE8AB9DF276D2320005022BF /* ThreadProfileTableViewCell.swift in Sources */,
 				EE8AB9DB276D03D3005022BF /* ThreadDetailsViewController.swift in Sources */,
 				EE453CAF274D879A00126D19 /* LoginViewController.swift in Sources */,
+				EE8AB9DD276D21B4005022BF /* ProfileViewController.swift in Sources */,
 				EE453CB3274D87BB00126D19 /* RegisterViewController.swift in Sources */,
 				EE453C7F274D83BE00126D19 /* AppDelegate.swift in Sources */,
 				EE453CB5274D883B00126D19 /* InitialViewController.swift in Sources */,
