@@ -111,4 +111,6 @@ Sprint 1:
 
 <img src='https://i.imgur.com/Aq4OM6c.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Sprint 2&3:
 
+<img src='https://i.imgur.com/ybaqt4f.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
