@@ -13,7 +13,7 @@ class CreationViewController: UIViewController {
     @IBOutlet weak var titleLabel: UILabel!
     @IBOutlet weak var titleTextField: UITextField!
     @IBOutlet weak var threadLabel: UILabel!
-    @IBOutlet weak var threadTextField: UITextField!
+    @IBOutlet weak var threadTextView: UITextView!
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -25,7 +25,7 @@ class CreationViewController: UIViewController {
         
         thread["title"] = titleTextField.text!
         thread["author"] = PFUser.current()!
-        thread["thread"] = threadTextField.text!
+        thread["thread"] = threadTextView.text!
         
         thread.saveInBackground { (success,error) in
             if success {
