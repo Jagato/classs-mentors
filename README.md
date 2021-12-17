@@ -26,8 +26,7 @@ The following **required** functionality is completed:
 
 - [x] User can log in & register an account.
 - [x] User can create a profile containing classes taken, bio, classification, etc.
-- [x] User can navigate across three tab bar items 
-- [] User can view posted threads
+- [x] User can view posted threads
 - [] Users can direct message other students and mentors
 - [] Users can post on a discussion board about a class
 
@@ -112,8 +111,5 @@ Here's a walkthrough of implemented user stories:
 Sprint 1:
 
 <img src='https://i.imgur.com/Aq4OM6c.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-Sprint 2 progress:
-<img src='https://i.imgur.com/w4dWEnT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
