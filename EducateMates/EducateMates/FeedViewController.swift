@@ -47,7 +47,8 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
         
         let thread = threads[indexPath.row]
         let user = thread["author"] as! PFUser
-        cell.authorLabel.text = user.username
+        let authorLabelText = "Authored by " + user.username!
+        cell.authorLabel.text = authorLabelText
         cell.titleLabel.text = thread["title"] as! String
         cell.threadTextView.text = thread["thread"] as! String
         
